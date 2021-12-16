@@ -13,13 +13,15 @@ Le nom de l'attribut dataset est à votre convenance, exemple:
 Récupérez la valeur de **chaque dataset dans une variable** et réaliser les actions suivantes :
 
     #p1. En JS, ajoutez 10 à la valeur récupérée et mettez à jour le dataset de l'élément en JS aussi.
-    #p2. En JS, mettez à jour la valeur du dataset avec la longeur de la chaine récupérée ( mettez dans le dataset la longueur totale de la chaîne de caractères )
+    #p2. En JS, mettez à jour la valeur du dataset avec la longeur de la chaine récupérée 
+    ( mettez dans le dataset la longueur totale de la chaîne de caractères )
     #p3. En JS, transformez le variable contenant la valeur du dataset en tableau, et insérez ce tableau dans le innerHTML de l'élément #p3
     #p4. En JS, Testez si la valeur est true, si c'est le cas, indiquez "La valeur est vraie" dans le innerHtml de l'élément #p4, si ce n'est pas le cas, indiquer l'inverse.
 
 ## Elements de #p5 à #p8
 
-Recréez exactement ce que vous avez fait dans le code HTML, mais cette vois ci, via JavaScript, reproduisez également les mêmes opérations sur chaque dataset.
+Recréez exactement ce que vous avez fait dans le code HTML, mais cette vois ci, via JavaScript, reproduisez également 
+les mêmes opérations sur chaque dataset.
 
 Théorie:
 
